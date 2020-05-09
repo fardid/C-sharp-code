@@ -1,0 +1,13 @@
+F:\.NetCore\Codes\BasicDataStructure\obj\Debug\netcoreapp3.1\BasicDataStructure.csprojAssemblyReference.cache
+F:\.NetCore\Codes\BasicDataStructure\obj\Debug\netcoreapp3.1\BasicDataStructure.csproj.CoreCompileInputs.cache
+F:\.NetCore\Codes\BasicDataStructure\obj\Debug\netcoreapp3.1\BasicDataStructure.AssemblyInfoInputs.cache
+F:\.NetCore\Codes\BasicDataStructure\obj\Debug\netcoreapp3.1\BasicDataStructure.AssemblyInfo.cs
+F:\.NetCore\Codes\BasicDataStructure\bin\Debug\netcoreapp3.1\BasicDataStructure.exe
+F:\.NetCore\Codes\BasicDataStructure\bin\Debug\netcoreapp3.1\BasicDataStructure.deps.json
+F:\.NetCore\Codes\BasicDataStructure\bin\Debug\netcoreapp3.1\BasicDataStructure.runtimeconfig.json
+F:\.NetCore\Codes\BasicDataStructure\bin\Debug\netcoreapp3.1\BasicDataStructure.runtimeconfig.dev.json
+F:\.NetCore\Codes\BasicDataStructure\bin\Debug\netcoreapp3.1\BasicDataStructure.dll
+F:\.NetCore\Codes\BasicDataStructure\bin\Debug\netcoreapp3.1\BasicDataStructure.pdb
+F:\.NetCore\Codes\BasicDataStructure\obj\Debug\netcoreapp3.1\BasicDataStructure.dll
+F:\.NetCore\Codes\BasicDataStructure\obj\Debug\netcoreapp3.1\BasicDataStructure.pdb
+F:\.NetCore\Codes\BasicDataStructure\obj\Debug\netcoreapp3.1\BasicDataStructure.genruntimeconfig.cache

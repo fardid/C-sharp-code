@@ -1,0 +1,13 @@
+F:\.NetCore\Codes\second console app\obj\Debug\netcoreapp3.1\second console app.csprojAssemblyReference.cache
+F:\.NetCore\Codes\second console app\obj\Debug\netcoreapp3.1\second console app.csproj.CoreCompileInputs.cache
+F:\.NetCore\Codes\second console app\obj\Debug\netcoreapp3.1\second console app.AssemblyInfoInputs.cache
+F:\.NetCore\Codes\second console app\obj\Debug\netcoreapp3.1\second console app.AssemblyInfo.cs
+F:\.NetCore\Codes\second console app\bin\Debug\netcoreapp3.1\second console app.exe
+F:\.NetCore\Codes\second console app\bin\Debug\netcoreapp3.1\second console app.deps.json
+F:\.NetCore\Codes\second console app\bin\Debug\netcoreapp3.1\second console app.runtimeconfig.json
+F:\.NetCore\Codes\second console app\bin\Debug\netcoreapp3.1\second console app.runtimeconfig.dev.json
+F:\.NetCore\Codes\second console app\bin\Debug\netcoreapp3.1\second console app.dll
+F:\.NetCore\Codes\second console app\bin\Debug\netcoreapp3.1\second console app.pdb
+F:\.NetCore\Codes\second console app\obj\Debug\netcoreapp3.1\second console app.dll
+F:\.NetCore\Codes\second console app\obj\Debug\netcoreapp3.1\second console app.pdb
+F:\.NetCore\Codes\second console app\obj\Debug\netcoreapp3.1\second console app.genruntimeconfig.cache

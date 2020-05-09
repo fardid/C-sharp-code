@@ -1,0 +1,13 @@
+F:\.NetCore\Codes\ConsoleApp1\obj\Debug\netcoreapp3.1\Coding practise.csprojAssemblyReference.cache
+F:\.NetCore\Codes\ConsoleApp1\obj\Debug\netcoreapp3.1\Coding practise.csproj.CoreCompileInputs.cache
+F:\.NetCore\Codes\ConsoleApp1\obj\Debug\netcoreapp3.1\Coding practise.AssemblyInfoInputs.cache
+F:\.NetCore\Codes\ConsoleApp1\obj\Debug\netcoreapp3.1\Coding practise.AssemblyInfo.cs
+F:\.NetCore\Codes\ConsoleApp1\bin\Debug\netcoreapp3.1\Coding practise.exe
+F:\.NetCore\Codes\ConsoleApp1\bin\Debug\netcoreapp3.1\Coding practise.deps.json
+F:\.NetCore\Codes\ConsoleApp1\bin\Debug\netcoreapp3.1\Coding practise.runtimeconfig.json
+F:\.NetCore\Codes\ConsoleApp1\bin\Debug\netcoreapp3.1\Coding practise.runtimeconfig.dev.json
+F:\.NetCore\Codes\ConsoleApp1\bin\Debug\netcoreapp3.1\Coding practise.dll
+F:\.NetCore\Codes\ConsoleApp1\bin\Debug\netcoreapp3.1\Coding practise.pdb
+F:\.NetCore\Codes\ConsoleApp1\obj\Debug\netcoreapp3.1\Coding practise.dll
+F:\.NetCore\Codes\ConsoleApp1\obj\Debug\netcoreapp3.1\Coding practise.pdb
+F:\.NetCore\Codes\ConsoleApp1\obj\Debug\netcoreapp3.1\Coding practise.genruntimeconfig.cache

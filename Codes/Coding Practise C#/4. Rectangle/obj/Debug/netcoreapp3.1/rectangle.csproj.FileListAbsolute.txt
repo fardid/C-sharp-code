@@ -1,0 +1,13 @@
+F:\.NetCore\Codes\rectangle\bin\Debug\netcoreapp3.1\rectangle.exe
+F:\.NetCore\Codes\rectangle\bin\Debug\netcoreapp3.1\rectangle.deps.json
+F:\.NetCore\Codes\rectangle\bin\Debug\netcoreapp3.1\rectangle.runtimeconfig.json
+F:\.NetCore\Codes\rectangle\bin\Debug\netcoreapp3.1\rectangle.runtimeconfig.dev.json
+F:\.NetCore\Codes\rectangle\bin\Debug\netcoreapp3.1\rectangle.dll
+F:\.NetCore\Codes\rectangle\bin\Debug\netcoreapp3.1\rectangle.pdb
+F:\.NetCore\Codes\rectangle\obj\Debug\netcoreapp3.1\rectangle.csprojAssemblyReference.cache
+F:\.NetCore\Codes\rectangle\obj\Debug\netcoreapp3.1\rectangle.csproj.CoreCompileInputs.cache
+F:\.NetCore\Codes\rectangle\obj\Debug\netcoreapp3.1\rectangle.AssemblyInfoInputs.cache
+F:\.NetCore\Codes\rectangle\obj\Debug\netcoreapp3.1\rectangle.AssemblyInfo.cs
+F:\.NetCore\Codes\rectangle\obj\Debug\netcoreapp3.1\rectangle.dll
+F:\.NetCore\Codes\rectangle\obj\Debug\netcoreapp3.1\rectangle.pdb
+F:\.NetCore\Codes\rectangle\obj\Debug\netcoreapp3.1\rectangle.genruntimeconfig.cache

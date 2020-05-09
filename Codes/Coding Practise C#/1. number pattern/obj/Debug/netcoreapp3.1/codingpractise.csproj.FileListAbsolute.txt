@@ -1,0 +1,12 @@
+F:\.NetCore\Codes\codingpractise\bin\Debug\netcoreapp3.1\codingpractise.exe
+F:\.NetCore\Codes\codingpractise\bin\Debug\netcoreapp3.1\codingpractise.deps.json
+F:\.NetCore\Codes\codingpractise\bin\Debug\netcoreapp3.1\codingpractise.runtimeconfig.json
+F:\.NetCore\Codes\codingpractise\bin\Debug\netcoreapp3.1\codingpractise.runtimeconfig.dev.json
+F:\.NetCore\Codes\codingpractise\bin\Debug\netcoreapp3.1\codingpractise.dll
+F:\.NetCore\Codes\codingpractise\bin\Debug\netcoreapp3.1\codingpractise.pdb
+F:\.NetCore\Codes\codingpractise\obj\Debug\netcoreapp3.1\codingpractise.csproj.CoreCompileInputs.cache
+F:\.NetCore\Codes\codingpractise\obj\Debug\netcoreapp3.1\codingpractise.AssemblyInfoInputs.cache
+F:\.NetCore\Codes\codingpractise\obj\Debug\netcoreapp3.1\codingpractise.AssemblyInfo.cs
+F:\.NetCore\Codes\codingpractise\obj\Debug\netcoreapp3.1\codingpractise.dll
+F:\.NetCore\Codes\codingpractise\obj\Debug\netcoreapp3.1\codingpractise.pdb
+F:\.NetCore\Codes\codingpractise\obj\Debug\netcoreapp3.1\codingpractise.genruntimeconfig.cache
